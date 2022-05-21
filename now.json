@@ -1,0 +1,1 @@
+{"routes":[{"src":"/","dest":"/index.html"},{"src":"/quienes-somos","dest":"/quienes-somos.html"},{"src":"/cardenal-arzobizpo","dest":"/cardenal-arzobizpo.html"},{"src":"/vicarias","dest":"/vicarias.html"},{"src":"/catedral","dest":"/catedral.html"},{"src":"/seminarios","dest":"/seminarios.html"},{"src":"/servicios","dest":"/servicios.html"},{"src":"/blog","dest":"/blog.html"}]}
